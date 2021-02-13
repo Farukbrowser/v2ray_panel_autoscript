@@ -9,7 +9,7 @@ http://123.123.123.123:65432
 
 # Note: Change 123.123.123.123 to your VPS IP Address.
 
-Login Username: admin
+Login Username: admin <br>
 Login Password: admin
 
 2. Go to Accounts
