@@ -1,6 +1,6 @@
 # v2ray_panel_autoscript
-sudo apt update && sudo apt upgrade
-sudo apt install curl
+sudo apt update && sudo apt upgrade <br>
+sudo apt install curl <br>
 bash <(curl -Ls https://blog.sprov.xyz/v2-ui.sh)
 
 # How to Use V2Ray Panel?
